@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=CPU_CLK Pin=U11-N7
+Removed Pin From Net: NetName=CPU_CS Pin=U11-P8
+Removed Pin From Net: NetName=CPU_SDA Pin=U11-R7
+Removed Pin From Net: NetName=CPU_MISO Pin=U11-U7
+Removed Pin From Net: NetName=CPU_SCL Pin=U11-V6
+Removed Pin From Net: NetName=CPU_MOSI Pin=U11-V7
+Added Pin To Net: NetName=CPU_CLK Pin=U11-R5
+Added Pin To Net: NetName=CPU_SCL Pin=U11-T4
+Added Pin To Net: NetName=CPU_CS Pin=U11-T5
+Added Pin To Net: NetName=CPU_MISO Pin=U11-U5
+Added Pin To Net: NetName=CPU_SDA Pin=U11-V4
+Added Pin To Net: NetName=CPU_MOSI Pin=U11-V5

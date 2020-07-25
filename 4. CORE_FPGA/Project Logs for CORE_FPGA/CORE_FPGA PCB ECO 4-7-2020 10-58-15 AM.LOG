@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=Net9C7_2 Pin=9L1-1
+Added Pin To Net: NetName=FLASH_1.8V Pin=9L1-2
+Added Pin To Net: NetName=CFPGA_3.3V Pin=9L2-1
+Added Pin To Net: NetName=Net9C9_2 Pin=9L2-2
+Added Member To Class: ClassName=FPGA Member=Component 9L1 FB 6A
+Added Member To Class: ClassName=FPGA Member=Component 9L2 FB 6A

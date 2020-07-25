@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CPU_I2S_FRM5 Pin=U11-L1
+Removed Pin From Net: NetName=CPU_I2S_DO5 Pin=U11-M3
+Added Pin To Net: NetName=CPU_I2S_DO5 Pin=U11-L1
+Added Pin To Net: NetName=CPU_I2S_FRM5 Pin=U11-M3

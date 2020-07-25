@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=9R15-2
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=9R16-2
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=9R17-2
+Removed Pin From Net: NetName=FLASH_1.8V Pin=U12-B1
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=U12-B2
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=U12-C6
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=U12-D6
+Removed Pin From Net: NetName=FLASH_1.8V Pin=U12-E1
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=U12-G5
+Removed Pin From Net: NetName=FLASH_1.8V Pin=U12-G6
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=U12-H2
+Added Pin To Net: NetName=Net9C9_2 Pin=9R15-2
+Added Pin To Net: NetName=Net9C9_2 Pin=9R16-2
+Added Pin To Net: NetName=Net9C9_2 Pin=9R17-2
+Added Pin To Net: NetName=Net9C7_2 Pin=U12-B1
+Added Pin To Net: NetName=Net9C9_2 Pin=U12-B2
+Added Pin To Net: NetName=Net9C9_2 Pin=U12-C6
+Added Pin To Net: NetName=Net9C9_2 Pin=U12-D6
+Added Pin To Net: NetName=Net9C7_2 Pin=U12-E1
+Added Pin To Net: NetName=Net9C9_2 Pin=U12-G5
+Added Pin To Net: NetName=Net9C7_2 Pin=U12-G6
+Added Pin To Net: NetName=Net9C9_2 Pin=U12-H2
+Change Net Name : Old Net Name=Net9C7_2 New Net Name=1.8V_F
+Change Net Name : Old Net Name=Net9C9_2 New Net Name=FLASH 3.3V

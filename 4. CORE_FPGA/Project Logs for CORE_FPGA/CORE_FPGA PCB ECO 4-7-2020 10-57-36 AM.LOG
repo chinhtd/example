@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=FLASH_1.8V Pin=9C7-2
+Removed Pin From Net: NetName=FLASH_1.8V Pin=9C8-2
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=9C9-2
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=9C10-2
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=9C11-2
+Removed Pin From Net: NetName=FLASH_1.8V Pin=9C13-2
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=9C14-2
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=9C15-2
+Added Pin To Net: NetName=Net9C7_2 Pin=9C7-2
+Added Pin To Net: NetName=Net9C7_2 Pin=9C8-2
+Added Pin To Net: NetName=Net9C7_2 Pin=9C13-2
+Added Net: Name=Net9C7_2
+Added Pin To Net: NetName=Net9C9_2 Pin=9C9-2
+Added Pin To Net: NetName=Net9C9_2 Pin=9C10-2
+Added Pin To Net: NetName=Net9C9_2 Pin=9C11-2
+Added Pin To Net: NetName=Net9C9_2 Pin=9C14-2
+Added Pin To Net: NetName=Net9C9_2 Pin=9C15-2
+Added Net: Name=Net9C9_2

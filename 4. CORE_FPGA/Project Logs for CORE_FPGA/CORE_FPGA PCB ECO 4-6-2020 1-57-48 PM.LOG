@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LED_FXS_03 Pin=U11-P17
+Removed Pin From Net: NetName=LED_FXS_04 Pin=U11-P18
+Added Pin To Net: NetName=LED_FXS_04 Pin=U11-P17
+Added Pin To Net: NetName=LED_FXS_03 Pin=U11-P18

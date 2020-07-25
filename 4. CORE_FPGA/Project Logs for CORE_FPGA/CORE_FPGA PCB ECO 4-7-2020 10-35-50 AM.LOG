@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CFPGA_3.3V Pin=10L7-1
+Removed Pin From Net: NetName=VCCO_B0 Pin=10L7-2
+Removed Pin From Net: NetName=OP_LED Pin=U11-R11
+Added Pin To Net: NetName=OP_LED Pin=U11-V12

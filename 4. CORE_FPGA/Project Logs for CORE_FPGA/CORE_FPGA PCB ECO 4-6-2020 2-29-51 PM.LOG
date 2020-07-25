@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CPU_SCL Pin=U11-T6
+Removed Pin From Net: NetName=CPU_SDA Pin=U11-V6
+Added Pin To Net: NetName=CPU_SDA Pin=U11-T6
+Added Pin To Net: NetName=CPU_SCL Pin=U11-V6

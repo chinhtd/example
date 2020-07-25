@@ -1,0 +1,20 @@
+Change Component Description : Designator=9C7 Old Description=CAP CER 10V 10% 0603 New Description=CAP CER 10V 10% 0402
+Change Component Description : Designator=9C8 Old Description=CAP CER 10V 10% 0603 New Description=CAP CER 10V 10% 0402
+Change Component Description : Designator=9C9 Old Description=CAP CER 10V 10% 0603 New Description=CAP CER 10V 10% 0402
+Change Component Description : Designator=9C10 Old Description=CAP CER 10V 10% 0603 New Description=CAP CER 10V 10% 0402
+Change Component Description : Designator=9C11 Old Description=CAP CER 10V 10% 0603 New Description=CAP CER 10V 10% 0402
+Added Component: Designator=9C13(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=9C14(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=9C15(C0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=9C13-1
+Added Pin To Net: NetName=FLASH_1.8V Pin=9C13-2
+Added Pin To Net: NetName=GND Pin=9C14-1
+Added Pin To Net: NetName=CFPGA_3.3V Pin=9C14-2
+Added Pin To Net: NetName=GND Pin=9C15-1
+Added Pin To Net: NetName=CFPGA_3.3V Pin=9C15-2
+Added Member To Class: ClassName=FPGA Member=Component 9C13 100nF
+Added Member To Class: ClassName=FPGA Member=Component 9C14 100nF
+Added Member To Class: ClassName=FPGA Member=Component 9C15 100nF

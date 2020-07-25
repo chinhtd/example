@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=fT1 Pin=U11-A11
+Removed Pin From Net: NetName=fT3 Pin=U11-A12
+Removed Pin From Net: NetName=fT5 Pin=U11-A13
+Removed Pin From Net: NetName=fT0 Pin=U11-B11
+Removed Pin From Net: NetName=fT2 Pin=U11-B12
+Removed Pin From Net: NetName=fT4 Pin=U11-C13
+Removed Pin From Net: NetName=fT7 Pin=U11-F13
+Added Pin To Net: NetName=fT0 Pin=U11-A11
+Added Pin To Net: NetName=fT2 Pin=U11-A12
+Added Pin To Net: NetName=fT4 Pin=U11-A13
+Added Pin To Net: NetName=fT7 Pin=U11-A15
+Added Pin To Net: NetName=fT1 Pin=U11-B11
+Added Pin To Net: NetName=fT3 Pin=U11-B12
+Added Pin To Net: NetName=fT5 Pin=U11-C13

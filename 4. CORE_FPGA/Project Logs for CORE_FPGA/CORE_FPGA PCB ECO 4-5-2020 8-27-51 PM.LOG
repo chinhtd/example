@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=f2MHz Pin=P1-8
+Removed Pin From Net: NetName=fRX Pin=P1-12
+Added Pin To Net: NetName=fRX Pin=P1-8
+Added Pin To Net: NetName=f2MHz Pin=P1-12

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=fTX Pin=U11-C15
+Removed Pin From Net: NetName=fRX Pin=U11-D14
+Added Pin To Net: NetName=fRX Pin=U11-N6
+Added Pin To Net: NetName=fTX Pin=U11-P7

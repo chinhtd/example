@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=fTS0 Pin=U11-A3
+Removed Pin From Net: NetName=fTS4 Pin=U11-A4
+Removed Pin From Net: NetName=fTS1 Pin=U11-B3
+Removed Pin From Net: NetName=fTS5 Pin=U11-B4
+Added Pin To Net: NetName=fTS4 Pin=U11-A3
+Added Pin To Net: NetName=fTS0 Pin=U11-A4
+Added Pin To Net: NetName=fTS5 Pin=U11-B3
+Added Pin To Net: NetName=fTS1 Pin=U11-B4

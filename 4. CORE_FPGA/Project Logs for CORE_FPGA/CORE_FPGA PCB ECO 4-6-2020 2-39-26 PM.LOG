@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=CPU_MOSI Pin=U11-R5
+Added Pin To Net: NetName=CPU_MOSI Pin=U11-T5

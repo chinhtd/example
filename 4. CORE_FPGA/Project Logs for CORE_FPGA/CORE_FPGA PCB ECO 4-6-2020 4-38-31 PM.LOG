@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=CPU_I2S_MCLK Pin=U11-L5
+Added Pin To Net: NetName=CPU_I2S_MCLK Pin=U11-L6

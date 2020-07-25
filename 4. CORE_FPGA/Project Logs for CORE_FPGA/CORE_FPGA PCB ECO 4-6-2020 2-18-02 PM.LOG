@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=CPU_TDM_SPI_CLK Pin=U11-N10
+Removed Pin From Net: NetName=CPU_TDM_SPI_CS0 Pin=U11-P11
+Removed Pin From Net: NetName=50MHz Pin=U11-R8
+Removed Pin From Net: NetName=CPU_TDM_SPI_MOSI Pin=U11-T12
+Removed Pin From Net: NetName=CPU_TDM_CODEC_INTn Pin=U11-U11
+Removed Pin From Net: NetName=CPU_TDM_SPI_MISO Pin=U11-V12
+Added Pin To Net: NetName=CPU_TDM_SPI_CLK Pin=U11-R10
+Added Pin To Net: NetName=50MHz Pin=U11-T9
+Added Pin To Net: NetName=CPU_TDM_SPI_CS0 Pin=U11-T10
+Added Pin To Net: NetName=CPU_TDM_SPI_MOSI Pin=U11-U11
+Added Pin To Net: NetName=CPU_TDM_CODEC_INTn Pin=U11-V10
+Added Pin To Net: NetName=CPU_TDM_SPI_MISO Pin=U11-V11

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CPU_TDM_SPI_MOSI Pin=U11-T10
+Removed Pin From Net: NetName=CPU_TDM_SPI_MISO Pin=U11-U10
+Added Pin To Net: NetName=CPU_TDM_SPI_MOSI Pin=U11-U10
+Added Pin To Net: NetName=CPU_TDM_SPI_MISO Pin=U11-V10

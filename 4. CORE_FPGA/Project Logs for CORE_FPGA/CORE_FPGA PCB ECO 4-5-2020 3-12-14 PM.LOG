@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=LED_LINK1_WAN1_IN Pin=9J1-2
+Removed Pin From Net: NetName=LED_LINK2_WAN1_IN Pin=9J1-3
+Removed Pin From Net: NetName=LED_LINK1_WAN2_IN Pin=9J1-5
+Removed Pin From Net: NetName=LED_LINK2_WAN2_IN Pin=9J1-6
+Removed Pin From Net: NetName=CPU_MISO Pin=9J2-1
+Removed Pin From Net: NetName=CPU_MOSI Pin=9J2-2
+Removed Pin From Net: NetName=CPU_CLK Pin=9J2-3
+Removed Pin From Net: NetName=CPU_CS Pin=9J2-4
+Removed Pin From Net: NetName=CPU_SCL Pin=9J2-5
+Removed Pin From Net: NetName=CPU_SDA Pin=9J2-6
+Removed Member From Class: ClassName=FPGA Member=9J1
+Removed Member From Class: ClassName=FPGA Member=9J2
+Added Component: Designator=P1(HEADER 40P MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HEADER 40P MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5VCC Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=+5VCC Pin=P1-3
+Added Pin To Net: NetName=fTX Pin=P1-4
+Added Pin To Net: NetName=+5VCC Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=+5VCC Pin=P1-7
+Added Pin To Net: NetName=f2MHz Pin=P1-8
+Added Pin To Net: NetName=CPU_MISO Pin=P1-9
+Added Pin To Net: NetName=GND Pin=P1-10
+Added Pin To Net: NetName=CPU_MOSI Pin=P1-11
+Added Pin To Net: NetName=fRX Pin=P1-12
+Added Pin To Net: NetName=CPU_CLK Pin=P1-13
+Added Pin To Net: NetName=GND Pin=P1-14
+Added Pin To Net: NetName=CPU_CS Pin=P1-15
+Added Pin To Net: NetName=LED_LINK1_WAN1_IN Pin=P1-16
+Added Pin To Net: NetName=CPU_SCL Pin=P1-17
+Added Pin To Net: NetName=LED_LINK2_WAN1_IN Pin=P1-18
+Added Pin To Net: NetName=CPU_SDA Pin=P1-19
+Added Pin To Net: NetName=LED_LINK1_WAN2_IN Pin=P1-20
+Added Pin To Net: NetName=GND Pin=P1-21
+Added Pin To Net: NetName=LED_LINK2_WAN2_IN Pin=P1-22
+Added Pin To Net: NetName=CPU_TDM_SPI_CLK Pin=P1-23
+Added Pin To Net: NetName=GND Pin=P1-24
+Added Pin To Net: NetName=CPU_TDM_SPI_MOSI Pin=P1-25
+Added Pin To Net: NetName=LED_LINK_WAN1_OUT Pin=P1-26
+Added Pin To Net: NetName=CPU_TDM_SPI_MISO Pin=P1-27
+Added Pin To Net: NetName=LED_LINK_WAN2_OUT Pin=P1-28
+Added Pin To Net: NetName=CPU_TDM_SPI_CS0 Pin=P1-29
+Added Pin To Net: NetName=LED_FXS_01 Pin=P1-30
+Added Pin To Net: NetName=CPU_TDM_CODEC_INTn Pin=P1-31
+Added Pin To Net: NetName=LED_FXS_02 Pin=P1-32
+Added Pin To Net: NetName=GND Pin=P1-33
+Added Pin To Net: NetName=LED_FXS_03 Pin=P1-34
+Added Pin To Net: NetName=OP_LED Pin=P1-35
+Added Pin To Net: NetName=LED_FXS_04 Pin=P1-36
+Added Pin To Net: NetName=LED_FXS_07 Pin=P1-37
+Added Pin To Net: NetName=LED_FXS_05 Pin=P1-38
+Added Pin To Net: NetName=LED_FXS_08 Pin=P1-39
+Added Pin To Net: NetName=LED_FXS_06 Pin=P1-40
+Added Pin To Net: NetName=fTS7 Pin=P2-1
+Added Pin To Net: NetName=fR6 Pin=P2-2
+Added Pin To Net: NetName=fTS6 Pin=P2-3
+Added Pin To Net: NetName=fR7 Pin=P2-4
+Added Pin To Net: NetName=fTS5 Pin=P2-5
+Added Pin To Net: NetName=fR5 Pin=P2-6
+Added Pin To Net: NetName=fTS4 Pin=P2-7
+Added Pin To Net: NetName=fR4 Pin=P2-8
+Added Pin To Net: NetName=fTS3 Pin=P2-9
+Added Pin To Net: NetName=fR3 Pin=P2-10
+Added Pin To Net: NetName=fTS2 Pin=P2-11
+Added Pin To Net: NetName=fR2 Pin=P2-12
+Added Pin To Net: NetName=fTS1 Pin=P2-13
+Added Pin To Net: NetName=fR1 Pin=P2-14
+Added Pin To Net: NetName=fTS0 Pin=P2-15
+Added Pin To Net: NetName=fR0 Pin=P2-16
+Added Pin To Net: NetName=GND Pin=P2-17
+Added Pin To Net: NetName=GND Pin=P2-18
+Added Pin To Net: NetName=GND Pin=P2-19
+Added Pin To Net: NetName=GND Pin=P2-20
+Added Pin To Net: NetName=FPGA_PDN1 Pin=P2-21
+Added Pin To Net: NetName=fT7 Pin=P2-22
+Added Pin To Net: NetName=FPGA_PDN2 Pin=P2-23
+Added Pin To Net: NetName=fT6 Pin=P2-24
+Added Pin To Net: NetName=FPGA_PDN3 Pin=P2-25
+Added Pin To Net: NetName=fT5 Pin=P2-26
+Added Pin To Net: NetName=FPGA_PDN4 Pin=P2-27
+Added Pin To Net: NetName=fT4 Pin=P2-28
+Added Pin To Net: NetName=FPGA_PDN5 Pin=P2-29
+Added Pin To Net: NetName=fT3 Pin=P2-30
+Added Pin To Net: NetName=FPGA_PDN6 Pin=P2-31
+Added Pin To Net: NetName=fT2 Pin=P2-32
+Added Pin To Net: NetName=FPGA_PDN7 Pin=P2-33
+Added Pin To Net: NetName=fT1 Pin=P2-34
+Added Pin To Net: NetName=FPGA_PDN8 Pin=P2-35
+Added Pin To Net: NetName=fT0 Pin=P2-36
+Added Pin To Net: NetName=CFPGA_3.3V Pin=P2-37
+Added Pin To Net: NetName=CFPGA_3.3V Pin=P2-38
+Added Pin To Net: NetName=CFPGA_3.3V Pin=P2-39
+Added Pin To Net: NetName=CFPGA_3.3V Pin=P2-40
+Added Member To Class: ClassName=FPGA Member=Component P1 Header 20X2
+Added Member To Class: ClassName=FPGA Member=Component P2 Header 20X2
+Added Room: Name=FPGA
+Added Room: Name=FPGA_PWR

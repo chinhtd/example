@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=fR5 Pin=U11-A8
+Removed Pin From Net: NetName=fR3 Pin=U11-C8
+Added Pin To Net: NetName=fR3 Pin=U11-A8
+Added Pin To Net: NetName=fR5 Pin=U11-B9

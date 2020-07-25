@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CPU_CLK Pin=U11-R5
+Removed Pin From Net: NetName=CPU_MOSI Pin=U11-V5
+Added Pin To Net: NetName=CPU_MOSI Pin=U11-R5
+Added Pin To Net: NetName=CPU_CLK Pin=U11-V5

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=f2MHz Pin=U11-C10
+Removed Pin From Net: NetName=CPU_TDM_CODEC_INTn Pin=U11-U11
+Removed Pin From Net: NetName=CPU_TDM_SPI_MISO Pin=U11-V10
+Removed Pin From Net: NetName=CPU_TDM_SPI_CS0 Pin=U11-V11
+Added Pin To Net: NetName=f2MHz Pin=U11-R8
+Added Pin To Net: NetName=CPU_TDM_SPI_MISO Pin=U11-U10
+Added Pin To Net: NetName=CPU_TDM_SPI_CS0 Pin=U11-U11
+Added Pin To Net: NetName=CPU_TDM_CODEC_INTn Pin=U11-V11

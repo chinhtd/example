@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LED_LINK1_WAN1_IN Pin=U11-U13
+Removed Pin From Net: NetName=LED_LINK2_WAN1_IN Pin=U11-V13
+Added Pin To Net: NetName=LED_LINK2_WAN1_IN Pin=U11-U13
+Added Pin To Net: NetName=LED_LINK1_WAN1_IN Pin=U11-V13

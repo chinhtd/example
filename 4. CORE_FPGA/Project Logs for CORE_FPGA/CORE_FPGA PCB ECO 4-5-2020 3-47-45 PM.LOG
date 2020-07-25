@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=9U2 Old Footprint=OSC4 New Footprint=CB3LV-3I-2M0480
+Change Component Footprint: Designator=9U6 Old Footprint=OSC4 New Footprint=CB3LV-3I-2M0480
+Added Pin To Net: NetName=Net9R18_2 Pin=9U2-1
+Added Net: Name=Net9R18_2
+Added Pin To Net: NetName=Net9R19_2 Pin=9U6-1
+Added Net: Name=Net9R19_2
+Added Room: Name=FPGA
+Added Room: Name=FPGA_PWR

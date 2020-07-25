@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=LED_FXS_01 Pin=P1-30
+Removed Pin From Net: NetName=LED_FXS_02 Pin=P1-32
+Removed Pin From Net: NetName=LED_FXS_03 Pin=P1-34
+Removed Pin From Net: NetName=LED_FXS_04 Pin=P1-36
+Removed Pin From Net: NetName=LED_FXS_07 Pin=P1-37
+Removed Pin From Net: NetName=LED_FXS_05 Pin=P1-38
+Removed Pin From Net: NetName=LED_FXS_08 Pin=P1-39
+Removed Pin From Net: NetName=LED_FXS_06 Pin=P1-40
+Added Pin To Net: NetName=LED_FXS_06 Pin=P1-30
+Added Pin To Net: NetName=LED_FXS_05 Pin=P1-32
+Added Pin To Net: NetName=LED_FXS_04 Pin=P1-34
+Added Pin To Net: NetName=LED_FXS_03 Pin=P1-36
+Added Pin To Net: NetName=LED_FXS_08 Pin=P1-37
+Added Pin To Net: NetName=LED_FXS_02 Pin=P1-38
+Added Pin To Net: NetName=LED_FXS_07 Pin=P1-39
+Added Pin To Net: NetName=LED_FXS_01 Pin=P1-40

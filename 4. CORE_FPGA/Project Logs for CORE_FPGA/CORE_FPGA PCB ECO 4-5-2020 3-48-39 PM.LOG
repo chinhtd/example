@@ -1,0 +1,12 @@
+Change component parameters: Designator = "9R18"; Footprint = "0603_1"; UniqueID = "\RNOXBUXJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LOAD"; Value = "NO_LOAD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "9R19"; Footprint = "0603_1"; UniqueID = "\QDQKIBDL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LOAD"; Value = "NO_LOAD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CFPGA_3.3V Pin=9R18-1
+Added Pin To Net: NetName=Net9R18_2 Pin=9R18-2
+Added Pin To Net: NetName=CFPGA_3.3V Pin=9R19-1
+Added Pin To Net: NetName=Net9R19_2 Pin=9R19-2
+Added Member To Class: ClassName=FPGA Member=Component 9R18 4.7K
+Added Member To Class: ClassName=FPGA Member=Component 9R19 4.7K

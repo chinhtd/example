@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=f2MHz Pin=U11-R8
+Removed Pin From Net: NetName=50MHz Pin=U11-T9
+Added Pin To Net: NetName=f2MHz Pin=U11-H17
+Added Pin To Net: NetName=50MHz Pin=U11-L15
